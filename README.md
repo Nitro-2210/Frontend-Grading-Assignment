@@ -49,3 +49,9 @@ To contribute to this project, please follow these guidelines:
 4. Submit a pull request for review.
 
 Please adhere to the project's coding standards and provide clear and detailed pull request descriptions.
+
+## Student Details
+
+Name : Kofi Asamoah
+
+Student ID : 11254373
